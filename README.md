@@ -1,1 +1,5 @@
 # Otomizacao-e-demanda-de-estoque
+
+A otimização da demanda de estoque é um processo fundamental para garantir que uma empresa mantenha níveis de inventário adequados para atender às necessidades dos clientes, ao mesmo tempo em que minimiza os custos associados ao estoque. Envolve uma análise criteriosa dos padrões de consumo, sazonalidade, tendências de mercado e outros fatores relevantes para prever com precisão a quantidade de produtos necessários em um determinado período.
+
+Por outro lado, a otimização de estoque visa determinar os níveis ideais de estoque para minimizar custos, maximizar o capital de giro e atender às demandas dos clientes de forma eficiente. Isso envolve a análise de vários fatores, como custos de armazenamento, lead time de fornecedores, custos de pedido, sazonalidade, obsolescência e níveis de serviço desejados. Com base nessas informações, são desenvolvidas políticas e estratégias de estoque que equilibram a disponibilidade de produtos com os custos associados, garantindo que a empresa mantenha um nível adequado de estoque para atender à demanda sem incorrer em excessos.
